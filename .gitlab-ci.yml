@@ -1,0 +1,15 @@
+variables:
+SONARSCANNER: “C:\\SonarScannerMsbuild_exe\\SonarScanner.MSBuild.exe”
+
+stages:
+    - publish
+
+Sonar_Publish:
+    stage: publish
+    script:
+        - chcp 65001
+        - scripts\SonarQube\sonar_run.bat
+    only:
+        - develop
+    tags:
+        - windows

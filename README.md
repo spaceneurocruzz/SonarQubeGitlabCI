@@ -87,9 +87,9 @@ When you see it’s running and jobs are passed, and SonarQube website has the r
 
 Congratulations! All Done!
 
-[References]
-https://docs.sonarqube.org/display/SONAR/Requirements
-https://docs.docker.com/samples/library/sonarqube/
-https//docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+MSBuild
-https://docs.gitlab.com/runner/install/windows.html
-https://docs.gitlab.com/runner/register/index.html
+[References]<br />
+https://docs.sonarqube.org/display/SONAR/Requirements<br />
+https://docs.docker.com/samples/library/sonarqube/<br />
+https//docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+MSBuild<br />
+https://docs.gitlab.com/runner/install/windows.html<br />
+https://docs.gitlab.com/runner/register/index.html<br />
